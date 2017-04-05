@@ -1,0 +1,13 @@
+Afwijkingen van het ontwerp:
+De namen van sommige packages zijn veranderd.
+
+Er zijn in de package BestandLezen meerdere classes gemaakt.
+Deze classes vangen excepties op die zouden kunnen ontstaan bij het inlezen van het bestand.
+
+Er zijn in het package VindenORF ook meerdere classes.
+Deze classes bestaan uit een tweede GUI waarin de ORFs worden gevisualiseerd.
+En een class waar alle manipulaties van de sequentie in plaats vinden.
+
+Het package Blasten hebben we niet meer uit kunnen voeren. Hiervoor hadden wij niet genoeg tijd.
+
+Het package DatabaseConnectie is redelijk hetzelfde gebleven we exproteren alleen geen blast resultaten meer,
